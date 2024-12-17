@@ -1,6 +1,6 @@
 {
   "versionCode": 325,
-  "versionName": "3.1.8 ",
+  "versionName": "3.1.8",
   "Msg": "New update is available, to continue in our app please update it.
 
 What's new:
