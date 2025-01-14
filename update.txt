@@ -1,21 +1,12 @@
 {
-  "versionCode": 325,
+  "versionCode": 335,
   "versionName": "3.1.9",
-  "Msg": "New update is available, to continue in our app please update it.
-
-What's new:
-- Performance Improvements.
-- Bug Fixes.
-- New Features introduced.
-- Others minor changes.
-
-Thanks for using",
-  "downloadLink": "https://t.me/flux_iptv"
+  "Msg": "
+📢 تنبيه مهم!
+تم إصدار تحديث جديد لتطبيقنا لتحسين الأداء وإضافة ميزات جديدة رائعة! 🚀
+✨ حمل التحديث الآن للاستمتاع بأفضل تجربة ممكنة.
+شكراً لدعمكم المستمر! ❤️
+https://t.me/flux_iptv
+",
+  "downloadLink": "https://t.me/+QsqAFGN--jI5MDA0"
   }
-  
-  
-  
-
-  
-  
-  
